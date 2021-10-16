@@ -5,10 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d4fc684e-53a9-45d4-a431-c2df5743cffc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/FindMissleElementOfSingleLinkedlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/ReverseSingleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingPrograms/codility/PalindromPosibilityInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingPrograms/nagarro/FindCommonElementFrom3Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingPrograms/nagarro/NthPrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingPrograms/nagarro/NumberOfCharacterOccurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingPrograms/nagarro/PrintStringOccuranceInAnySequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingPrograms/nagarro/PrintVariableInFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingPrograms/nagarro/RemoveAllOccuranceOfPerticularCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingPrograms/nagarro/SecondThirdLargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingPrograms/nagarro/SortArrayZeroAndOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/codingPrograms/nagarro/SubStringCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readMe/linkedList.md" beforeDir="false" afterPath="$PROJECT_DIR$/readMe/linkedList.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +68,54 @@
     <property name="project.structure.side.proportion" value="0.27302632" />
     <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
+  <component name="RunManager" selected="Application.FindCommonElementFrom3Array">
+    <configuration name="FindCommonElementFrom3Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingPrograms.nagarro.FindCommonElementFrom3Array" />
+      <module name="DsAlgoCollectionDb.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingPrograms.nagarro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindNumberOfSubStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codingPrograms.codility.FindNumberOfSubStrings" />
+      <module name="DsAlgoCollectionDb.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codingPrograms.codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HowHashMapWorks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashMap.HowHashMapWorks" />
+      <module name="DsAlgoCollectionDb.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FindCommonElementFrom3Array" />
+        <item itemvalue="Application.FindNumberOfSubStrings" />
+        <item itemvalue="Application.HowHashMapWorks" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -82,14 +146,29 @@
       <option name="project" value="LOCAL" />
       <updated>1628536923084</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Linked list documentation">
+      <created>1628548341675</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628548341675</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Norton Questions">
+      <created>1628633018565</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628633018565</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added queue stack vector" />
     <MESSAGE value="Added Linked list documentation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Linked list documentation" />
+    <MESSAGE value="Added Norton Questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Norton Questions" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
